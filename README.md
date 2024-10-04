@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ilia. Lead Backend Developer with 10+ years of experience.
 - 👀 I’m interested in product development, open-source tools, and metaprogramming.
-- 📫 You can reach me at i@spate.one or t.me/spatecon
+- 📫 You can reach me at i@ela.sh or t.me/spatecon
